@@ -4,7 +4,6 @@ import android.os.Bundle;
 import android.os.SystemClock;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
-import android.support.v7.app.AppCompatActivity;
 
 import com.goldmantis.shaystudy.javaBase.MuitThread.Resource;
 import com.goldmantis.shaystudy.javaBase.MuitThread.SemaphoreThreadPool;
