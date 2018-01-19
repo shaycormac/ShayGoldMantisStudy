@@ -1,1 +1,1 @@
-include ':app', ':forgroundservice', ':tinkerstudy',':payhost',":payplugin"
+include ':app', ':forgroundservice', ':tinkerstudy',':payhost',":payplugin", ':fragmentriggerstudy'
